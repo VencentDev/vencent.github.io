@@ -12,7 +12,7 @@ import Target from '../components/Target.jsx';
 import CanvasLoader from '../components/Loading.jsx';
 import HeroCamera from '../components/HeroCamera.jsx';
 import { calculateSizes } from '../constants/index.js';
-import { HackerRoom } from '../components/hackerRoom.jsx';
+import { HackerRoom } from '../components/HackerRoom.jsx';
 
 const Hero = () => {
   // Use media queries to determine screen size
