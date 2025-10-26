@@ -1,4 +1,4 @@
-import Hero from './sections/hero.jsx';
+import Hero from './sections/Hero.jsx';
 import About from './sections/about.jsx';
 import Footer from './sections/Footer.jsx';
 import Navbar from './sections/navbar.jsx';
